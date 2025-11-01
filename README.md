@@ -33,6 +33,7 @@ Users can upload a photo of a car, and the app will analyze and predict the leve
 ##  Project Structure
 
 ```
+fastapi/                   # optional just for apis needed to any server
 streamlit/
 │
 ├── app.py                  # Streamlit web app entry point
