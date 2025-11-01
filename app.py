@@ -1,6 +1,7 @@
 import streamlit as st
 from model_helper import predict
 
+
 st.title("Vehicle Damage Detection")
 
 uploaded_file = st.file_uploader("Upload the File", type=['jpg', 'png'])
