@@ -37,7 +37,6 @@ streamlit/
 │
 ├── app.py                  # Streamlit web app entry point
 ├── model_helper.py         # Model loading and prediction helper
-├── saved_model.pth         # Trained model weights download from 
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
 └── test/                # Sample images for testing
