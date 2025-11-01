@@ -88,10 +88,10 @@ streamlit run app.py
 ##  Example Prediction
 
 
-![car](carimage1.png)  
+![car](carimage1.PNG)  
 
 
-![car](carimage2.png)
+![car](carimage2.PNG)
 
 ---
 
